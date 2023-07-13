@@ -1,6 +1,10 @@
-.s-2 {
+.s-2,
+.s-3 {
     margin: 100px 0;
 }
 .card {
     width: 500px;
+}
+.mybtn {
+    background-color: cyan;
 }
